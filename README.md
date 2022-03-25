@@ -10,3 +10,8 @@
 4. Now note the IP address of the instance and make the change in the rtspserver variable.
 5. Now run the python code. Your camera will be taken as input and the stream starts.
 6. You can view the same in any device by mentioning the IP address of the instance in the RTSP section. 
+
+## Demo
+You can visit the below link for the demo of this project.
+
+[Click for Project Demo](https://www.youtube.com/watch?v=69gu8doT19c)
